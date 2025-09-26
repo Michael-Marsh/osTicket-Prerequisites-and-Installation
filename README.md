@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.schooldataleadership.org/media/reviews/photos/original/cb/1a/f4/osticket-92-1527221838.png" height="35%" width="35%"/>
+<img src="https://www.opensaas.online/images/osticket-logo-img.png" height="35%" width="35%"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
