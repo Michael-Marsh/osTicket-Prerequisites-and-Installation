@@ -1,13 +1,10 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
-<h2>Description</h2>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Environments and Technologies Used</h2>
 
 - <b>Microsoft Azure</b> 
 - <b>Microsoft Remote Desktop (RDP)</b>
